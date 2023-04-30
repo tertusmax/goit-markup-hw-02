@@ -18,10 +18,10 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-  color: #2e2f42;
-}
-.web-logo {
   color: #4d5ae5;
+}
+.studio-logo {
+  color: #2e2f42;
 }
 .nav-list-link {
   font-family: "Roboto";

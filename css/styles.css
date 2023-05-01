@@ -39,7 +39,7 @@ button {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1, 33;
+  line-height: 1.5;
 
   letter-spacing: 0.02em;
 
@@ -50,7 +50,7 @@ button {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
 
   letter-spacing: 0.02em;
 
@@ -187,7 +187,11 @@ body {
 .header-address {
   font-style: normal;
 }
-.contact-list-item:hover,
-.contact-list-item:focus {
+.tel-link:hover,
+.tel-link:focus {
+  color: #404bbf;
+}
+.mail-link:hover,
+.mail-link:focus {
   color: #404bbf;
 }

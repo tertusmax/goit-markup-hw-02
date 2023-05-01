@@ -187,3 +187,7 @@ body {
 .header-address {
   font-style: normal;
 }
+.contact-list-item:hover,
+.contact-list-item:focus {
+  color: #404bbf;
+}

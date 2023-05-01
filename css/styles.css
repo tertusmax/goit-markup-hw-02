@@ -36,7 +36,6 @@ button {
 }
 .tel-link {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -47,7 +46,6 @@ button {
 }
 .mail-link {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;

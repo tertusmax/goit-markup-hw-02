@@ -175,11 +175,7 @@ body {
 .header-address {
   font-style: normal;
 }
-.tel-link:hover,
-.tel-link:focus {
-  color: #404bbf;
-}
-.mail-link:hover,
-.mail-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
   color: #404bbf;
 }
